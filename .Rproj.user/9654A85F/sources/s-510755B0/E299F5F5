@@ -1,0 +1,25 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1578353560765.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "2253030185",
+    "id" : "E299F5F5",
+    "lastKnownWriteTime" : 1578353576,
+    "last_content_update" : 1578353576126,
+    "path" : "~/Dropbox/website-master/content/en/home/contact.md",
+    "project_path" : "content/en/home/contact.md",
+    "properties" : {
+        "cursorPosition" : "4,13",
+        "scrollLine" : "0"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 10,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "markdown"
+}

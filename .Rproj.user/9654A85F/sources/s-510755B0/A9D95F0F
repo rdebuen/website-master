@@ -1,0 +1,25 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1578353372806.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "A9D95F0F",
+    "lastKnownWriteTime" : 1578353388,
+    "last_content_update" : 1578353388587,
+    "path" : "~/Dropbox/website-master/content/en/home/posts.md",
+    "project_path" : "content/en/home/posts.md",
+    "properties" : {
+        "cursorPosition" : "10,8",
+        "scrollLine" : "0"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 8,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "markdown"
+}
