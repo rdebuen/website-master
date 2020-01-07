@@ -5,14 +5,14 @@
     "dirty" : false,
     "encoding" : "UTF-8",
     "folds" : "",
-    "hash" : "641076174",
+    "hash" : "1262238297",
     "id" : "7533E669",
-    "lastKnownWriteTime" : 1578358375,
-    "last_content_update" : 1578358375430,
+    "lastKnownWriteTime" : 1578358530,
+    "last_content_update" : 1578358530040,
     "path" : "~/Dropbox/website-master/config/config.toml",
     "project_path" : "config/config.toml",
     "properties" : {
-        "cursorPosition" : "10,18",
+        "cursorPosition" : "11,15",
         "scrollLine" : "0"
     },
     "read_only" : false,
