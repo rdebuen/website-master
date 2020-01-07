@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1578370258687.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "2144639529",
+    "id" : "FD41C843",
+    "lastKnownWriteTime" : 1578370206,
+    "last_content_update" : 1578370206,
+    "path" : "~/Dropbox/website-master/themes/academic/theme.toml",
+    "project_path" : "themes/academic/theme.toml",
+    "properties" : {
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 17,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "toml"
+}

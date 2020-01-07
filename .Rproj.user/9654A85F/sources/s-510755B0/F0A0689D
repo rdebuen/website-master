@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1578369970796.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "2115662331",
+    "id" : "F0A0689D",
+    "lastKnownWriteTime" : 1574123054,
+    "last_content_update" : 1574123054,
+    "path" : "~/Dropbox/website-master/config/_default/params.toml",
+    "project_path" : "config/_default/params.toml",
+    "properties" : {
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 15,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "toml"
+}
