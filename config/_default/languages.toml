@@ -29,12 +29,14 @@
     url = "#projects"
     weight = 30
 
-  [[es.menu.main]]
-    name = "Publicaciones"
-    url = "#featured"
-    weight = 40
+#  [[es.menu.main]]
+#    name = "Publicaciones"
+#    url = "#featured"
+#    weight = 40
 
-  [[es.menu.main]]
-    name = "Contacto"
-    url = "#contact"
-    weight = 60
+#  [[es.menu.main]]
+#    name = "Contacto"
+#    url = "#contact"
+#   weight = 60
+
+
